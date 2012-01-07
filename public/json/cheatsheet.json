@@ -8,5 +8,6 @@
   [ "Requisition a database", "<pre>jitsu databases create</pre>" ],
   [ "List all applications", "<pre>jitsu list</pre>" ],
   [ "Reset my forgotten password", "<pre>jitsu users forgot :username</pre>" ],
+  [ "View logs your application outputs", "<pre>jitsu logs app :appname</pre>" ],
   [ "Get an item on the cheatsheet", "See <a href='https://github.com/jesusabdullah/nodejitsu-cheatsheet'>the project on github</a>."]
 ]
