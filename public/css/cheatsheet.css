@@ -6,14 +6,7 @@
  font-family: 'typewriter';
  src: local("â˜º"), url("fonts/typewriter.ttf") format("truetype");
  font-weight: normal;
- font-style: normal; 
-}
-
-@font-face {
- font-family: 'AllerLt';
- src: local("â˜º"), url("fonts/AllerLt.ttf") format("truetype");
- font-weight: normal;
- font-style: normal; 
+ font-style: normal;
 }
 
 a { color: #333333; text-decoration: none;}
@@ -68,11 +61,8 @@ header div.title {
 
 header div.link {
   float: right;
-  font-family: 'AllerLt';
   padding: 14px;
 }
-
-
 
 header div.subtitle {
   float: right;
